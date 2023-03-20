@@ -1,2 +1,2 @@
 # rest-timer
-Rest timer base on QuantumGraphicsToolkit.
+Rest timer base on [QuantumGraphicsToolkit](https://github.com/Timicasto/QuantumGraphicsToolkit).
